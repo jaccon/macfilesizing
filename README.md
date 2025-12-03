@@ -73,7 +73,7 @@ macfilesizing --source /caminho/do/diretorio
 Instale diretamente do repositório GitHub usando pip:
 
 ```bash
-pip install git+https://github.com/jaccon/macFileSizing.git
+pip install git+https://github.com/jaccon/macfilesizing.git
 ```
 
 Depois use o comando:
@@ -88,8 +88,8 @@ Clone o repositório e instale as dependências:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/jaccon/macFileSizing.git
-cd macFileSizing
+git clone https://github.com/jaccon/macfilesizing.git
+cd macfilesizing
 
 # Instale as dependências
 pip install -r requirements.txt
