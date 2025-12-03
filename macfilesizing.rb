@@ -2,8 +2,8 @@ class Macfilesizing < Formula
   include Language::Python::Virtualenv
 
   desc "List files and directories sorted by size"
-  homepage "https://github.com/jaccon/macFileSizing"
-  url "https://github.com/jaccon/macFileSizing/archive/refs/tags/v1.0.0.tar.gz"
+  homepage "https://github.com/jaccon/jcfilesizer"
+  url "https://github.com/jaccon/jcfilesizer/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "REPLACE_WITH_ACTUAL_SHA256"
   license "MIT"
 

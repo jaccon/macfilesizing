@@ -10,7 +10,7 @@ setup(
     description="A Python script to list files and directories sorted by size",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/jaccon/macFileSizing",
+    url="https://github.com/jaccon/jcfilesizer",
     py_modules=["macFileSizing"],
     classifiers=[
         "Programming Language :: Python :: 3",
